@@ -47,7 +47,6 @@ This project explores hotel booking data using two parallel approaches:
 - **Line Chart**: Monthly Booking & Cancellation Trend
 - **Filters/Slicers**: Month, Country, Market Segment, Customer Type
 
-![Dashboard Screenshot](Dashboard_Pic.png)
 
 ---
 
