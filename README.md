@@ -59,5 +59,4 @@ This project explores hotel booking data using two parallel approaches:
 
 ---
 
-## 📁 Project Structure
 
