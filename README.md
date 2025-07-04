@@ -22,7 +22,7 @@ This project explores hotel booking data using two parallel approaches:
 
 ## 🧩 Tools Used
 
-- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `openpyxl`
+- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`,
 - **Excel**: Pivot Tables, Slicers, Pie/Bar/Line Charts, KPIs, Conditional Formatting
 
 ---
@@ -47,7 +47,7 @@ This project explores hotel booking data using two parallel approaches:
 - **Line Chart**: Monthly Booking & Cancellation Trend
 - **Filters/Slicers**: Month, Country, Market Segment, Customer Type
 
-![Dashboard Screenshot](images/hotel_dashboard.png)
+![Dashboard Screenshot](Dashboard_Pic.png)
 
 ---
 
@@ -55,8 +55,8 @@ This project explores hotel booking data using two parallel approaches:
 
 | Role                             | Contributor           | Tools Used                        |
 |----------------------------------|------------------------|------------------------------------|
-| Data Cleaning & Feature Creation | Your Friend (Python)   | Jupyter Notebook, Pandas, NumPy   |
-| Dashboard Design & Visualization | You (Excel)            | MS Excel, Pivot Charts, Slicers   |
+| Data Cleaning & Feature Creation | https://github.com/amit100baidya (Python)   | Jupyter Notebook, Pandas, NumPy   |
+| Dashboard Design & Visualization | https://github.com/KartikeySinghSingraur (Excel)            | MS Excel, Pivot Charts, Slicers   |
 
 ---
 
